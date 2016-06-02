@@ -3,7 +3,7 @@ An Object Oriented Programming Login &amp; Registration System Built in PHP
 
 Made by: Stan de Horn, Student
 
-# Version 0.0.1 Aplha
+# Version 0.0.1 Alpha
 Updates will happen when i get the time
 
 # Documentation
