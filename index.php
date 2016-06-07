@@ -9,7 +9,7 @@
         <h1 class="header">Object Oriented Programming Login & Registration</h1>
         <h1 class="ooplr-version">Version: <?php echo Config::get('version/version'); ?></h1>
         <h1 class="ooplr-info">In Directory: <?php echo __DIR__ ?></h1>
-        <p>You can find the documentation on <a href="#">Github</a></p>
+        <p>You can find the documentation on <a href="https://github.com/Stannio/OOPLR/">Github</a></p>
     </div>
 </div>
 
